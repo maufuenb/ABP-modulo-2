@@ -2,6 +2,10 @@
 
 Proyecto realizado en JavaScript para ejecutarse desde el navegador, con foco en el uso de consola, `prompt()`, `alert()`, funciones, estructuras de control, arreglos, objetos y validaciones.
 
+## Repositorio
+
+GitHub: [https://github.com/maufuenb/ABP-modulo-2](https://github.com/maufuenb/ABP-modulo-2)
+
 ## Cómo ejecutar
 
 1. Abrir [index.html](./index.html) en un navegador.
