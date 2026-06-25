@@ -4,7 +4,7 @@ Proyecto realizado en JavaScript para ejecutarse desde el navegador, con foco en
 
 ## Repositorio
 
-GitHub: [https://github.com/maufuenb/ABP-modulo-2](https://github.com/maufuenb/ABP-modulo-2)
+GitHub: [https://github.com/maufuenb/ABP-modulo-3](https://github.com/maufuenb/ABP-modulo-3)
 
 ## Cómo ejecutar
 
